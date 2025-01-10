@@ -1,0 +1,2 @@
+# snapnews
+ SnapNews is a modern React-based News app that fetches live news from the NewsAPI. It features:  News Categories: Browse news by predefined categories like Sports, Technology, Entertainment, etc. Working Navbar and Footer: A sleek and responsive navigation bar and footer for easy accessibility. Loader Component: A visually appealing loader for smooth user experience during data fetches. Built with React for an intuitive and user-friendly interface, SnapNews is designed to deliver news seamlessly.
