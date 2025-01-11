@@ -10,7 +10,7 @@ export class News extends Component {
     country: "us",
     pageSize: 6,
     category: "general",
-    apiKey: 'cd3a420ff4964cb8a755a67c87e8665e'// Replace with your actual API key
+    apiKey: 'env.REACT_APP_SnapNews_API'// Replace with your actual API key
   };
   
   static propTypes = {
