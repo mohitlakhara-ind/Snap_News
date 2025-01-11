@@ -17,23 +17,23 @@ Snap News is a fast and interactive news application designed to keep users info
 Here are a few screenshots of Snap News to give you a glimpse of the app:
 
 1. **General View Before Loading**
-   ![General View Before Loading](./screenshots/before_loading.png)
+   ![General View Before Loading](./Screenshots/before_loading.png)
    *This is the initial screen showing a placeholder before the news data loads.*
 
 2. **Lazy Layout with Internal Loading**
-   ![Lazy Layout with Internal Loading](./screenshots/lazy_loading.png)
+   ![Lazy Layout with Internal Loading](./Screenshots/lazy_loading.png)
    *Screenshot showing the lazy loading layout with an internal loading spinner while the news data is being fetched.*
 
 3. **After Reaching End of News**
-   ![After Reaching End](./screenshots/end_reached.png)
+   ![After Reaching End](./Screenshots/end_reached.png)
    *Screenshot displaying the app once the user has reached the end of the news feed, indicating there are no more articles to load.*
 
 4. **Other Categories**
-   ![Other Categories](./screenshots/other_categories.png)
+   ![Other Categories](./Screenshots/other_categories.png)
    *This screenshot shows the category section, allowing users to browse news across different categories like Technology, Sports, Politics, etc.*
 
 5. **On Smartphone**
-   ![On Smartphone](./screenshots/smartphone_view.png)
+   ![On Smartphone](./Screenshots/smartphone_view.png)
    *A screenshot of Snap News optimized for smartphones, offering a seamless experience on mobile devices.*
 
 ## Tech Stack
