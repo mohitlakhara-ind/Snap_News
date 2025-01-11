@@ -31,7 +31,7 @@ const NavBar = (props) => {
     setError(null);
     setIsSearching(false);  // Hide the search indicator
 
-    const apiKey = 'cd3a420ff4964cb8a755a67c87e8665e';
+    const apiKey = 'env.REACT_APP_SnapNews_API';
     const url = `https://newsapi.org/v2/everything?q=${searchQuery}&apiKey=${apiKey}`;
 
     try {
